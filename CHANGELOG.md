@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/chutichai/semantic-release-demo/compare/v1.5.0...v1.6.0) (2024-05-01)
+
+
+### Features
+
+* test alpha ([55cd282](https://github.com/chutichai/semantic-release-demo/commit/55cd2820e6b7686c660045fa7fe592b5c6ed1073))
+
 # [1.5.0](https://github.com/chutichai/semantic-release-demo/compare/v1.4.0...v1.5.0) (2024-05-01)
 
 
