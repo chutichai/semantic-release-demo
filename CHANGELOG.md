@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/chutichai/semantic-release-demo/compare/v1.0.0...v1.1.0) (2024-05-01)
+
+
+### Features
+
+* ทดสอบ next major ([5a92201](https://github.com/chutichai/semantic-release-demo/commit/5a92201d92793f8ae691ff9fe2337267a7ba0afd))
+
 # 1.0.0 (2024-05-01)
 
 
