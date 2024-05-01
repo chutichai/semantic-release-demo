@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "rs": "semantic-release --dry-run --no-ci --debug"
+    "rs": "semantic-release --dry-run --no-ci --debug",
+    "rs:local": "semantic-release --no-ci --debug"
   },
   "repository": {
     "type": "git",
