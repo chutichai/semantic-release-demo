@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/chutichai/semantic-release-demo/compare/v1.2.0...v1.3.0) (2024-05-01)
+
+
+### Features
+
+* beta ([21850cc](https://github.com/chutichai/semantic-release-demo/commit/21850ccdbc50f27b9222e568b1a7230dbd87e8ef))
+
 # [1.2.0](https://github.com/chutichai/semantic-release-demo/compare/v1.1.0...v1.2.0) (2024-05-01)
 
 
