@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/chutichai/semantic-release-demo/compare/v1.4.0...v1.5.0) (2024-05-01)
+
+
+### Features
+
+* test new prerelease ([b6210b7](https://github.com/chutichai/semantic-release-demo/commit/b6210b7fc3ea4d0caaf1f6615b5026c0d226749d))
+
 # [1.4.0](https://github.com/chutichai/semantic-release-demo/compare/v1.3.0...v1.4.0) (2024-05-01)
 
 
